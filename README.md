@@ -1,1 +1,1 @@
-SarasVathi is a Scolarship Platform which helps students find scholarships
+SarasVathi is a Scholarship Platform which helps students find scholarships
